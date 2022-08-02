@@ -9,3 +9,7 @@
 - README.md para esse repositório
 
  Como extra, também criamos e personalizamos o README.md do nosso perfil GitHub, usando o site https://www.profileme.dev/ .
+ 
+ ## ⭐ Dia 2 
+ - Usamos um template para inserir arquivos manualmente no repositório
+ - Adicionamos imagens ao repositório
