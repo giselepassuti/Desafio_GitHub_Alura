@@ -13,3 +13,11 @@
  ## ⭐ Dia 2 
  - Usamos um template para inserir arquivos manualmente no repositório
  - Adicionamos imagens ao repositório
+
+## ⭐ Dia 3
+Clonamos um repositório diretamente no VS Code utilizando a URL do repositório
+
+## ⭐ Dia 4
+- Atualizamos os filmes, notas, descrições e imagens de forma local
+- Realizamos o commit através do VS Code
+
