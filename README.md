@@ -21,3 +21,7 @@ Clonamos um repositório diretamente no VS Code utilizando a URL do repositório
 - Atualizamos os filmes, notas, descrições e imagens de forma local
 - Realizamos o commit através do VS Code
 
+## ⭐ Dia 5
+- Desfizemos o último commit usando um comando no terminal
+- Esta atualização de readme foi feita diretamente do VS Code 😉
+
